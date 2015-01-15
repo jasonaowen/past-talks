@@ -1,0 +1,42 @@
+- name: NSConference Videos
+  url: http://vimeo.com/nsconf/videos
+- name: Postgres Open
+  url: https://www.youtube.com/user/postgresopen/videos
+- name: Killer Talks
+  url: https://github.com/PharkMillups/killer-talks
+- name: Awesome Talks
+  url: https://github.com/JanVanRyswyck/awesome-talks
+- name: InfoQ Presentations
+  url: http://www.infoq.com/presentations/
+- name: Confreaks
+  url: http://confreaks.com/videos/
+- name: Confreaks
+  url: https://www.youtube.com/user/Confreaks/playlists?shelf_id=0&view=1&sort=dd
+- name: "Ignite - elighten us, but make it quick"
+  url: http://igniteshow.com/browse
+- name: AltConf
+  url: https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/videos
+- name: AltConf
+  url: http://www.altconf.com/speakers/
+- name: Lightning talk search on Twitter
+  url: https://twitter.com/search?q=lightning%20talk&src=typd&mode=videos
+- name: Must-See Tech Talks for Every Programmer
+  url: http://brikis98.blogspot.com/2014/05/must-see-tech-talks-for-every-programmer.html
+- name: NewRelic FutureStack13
+  url: https://www.youtube.com/playlist?list=PLmhYj7Jl81JEMKm0LFHjn25GV6gUUU9IR
+- name: Talks
+  url: http://talks.guru/
+- name: The best of tech talks in one place
+  url: http://www.aula.io/
+- name: "GTAC 2011: Lightning Talks II (Web Testing)"
+  url: http://talkminer.com/viewtalk.jsp?videoid=bU5lb32EY8s&q=#.VA-KVVu7ni4
+- name: "Rich Hickey's Greatest Hits"
+  url: http://thechangelog.com/rich-hickeys-greatest-hits/
+- name: a list of must-watch videos devoted to JavaScript
+  url: https://github.com/bolshchikov/js-must-watch
+- name: Delight 2014 Conference
+  url: https://www.youtube.com/playlist?list=PLhrLw2VtaKLuP9T919PznQ4wOuY67MQN-
+- name: NSScotland 2014
+  url: http://vimeo.com/album/3132071
+- name: UIKonf
+  url: http://www.uikonf.com/videos/
