@@ -270,3 +270,9 @@
   attendance: 7
   comments: >
     "Good video, good conversation after."
+- date: 2015-01-15
+  videos:
+    - title: "Nike's Journey into Microservices"
+      speaker: Jason Robey
+      url: https://www.youtube.com/watch?v=h30ViSEZzW0
+  attendance: 4

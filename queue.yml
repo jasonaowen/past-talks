@@ -26,9 +26,6 @@
     - title: "The Functional Programming Concepts in Facebook's Mobile Apps"
       speaker: Adam Ernst
       url: http://www.infoq.com/presentations/fp-facebook-mobile-apps
-    - title: "Nike's Journey into Microservices"
-      speaker: Jason Robey
-      url: https://www.youtube.com/watch?v=h30ViSEZzW0
     - title: Workflows of Refactoring (Part 1)
       speaker: Martin Fowler
       url: http://www.infoq.com/presentations/workflow-refactoring
