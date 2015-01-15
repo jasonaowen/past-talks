@@ -1,0 +1,361 @@
+- date: 2014-07-02
+  videos:
+    - title: Simple Made Easy
+      speaker: Rich Hickey
+      url: http://www.infoq.com/presentations/Simple-Made-Easy
+  attendance: 8
+- date: 2014-07-09
+  videos:
+    - title: Designing Intuitive User Experiences
+      speaker: Mike Stern
+      url: https://developer.apple.com/videos/wwdc/2014/
+  attendance: 7
+- date: 2014-07-16
+  videos:
+    - title: The Magic Tricks of Testing
+      speaker: Sandi Metz
+      url: https://www.youtube.com/watch?v=URSWYvyc42M
+  attendance: 8
+- date: 2014-07-23
+  videos:
+    - title: Grasping Complexity with Both Hands
+      speaker: Glenn Vanderburg
+      url: http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands
+  attendance: 9
+- date: 2014-07-30
+  videos:
+    - title: 17th Century Shipbuilding and Your Failed Software Product
+      speaker: Pete Cheslock
+      url: http://vimeo.com/95284690
+    - title: Adrian Cockcroft Monitorama Keynote
+      speaker: Adrian Cockcroft
+      url: http://insidehpc.com/2014/05/adrian-cockcroft-keynote-monitorama-2014/
+  attendance: 8
+- date: 2014-08-06
+  videos:
+    - title: WAT
+      speaker: Gary Bernhardt
+      url: https://www.destroyallsoftware.com/talks/wat
+    - title: How To Debug Anything
+      speaker: James Golick
+      url: http://www.confreaks.com/videos/3451-goruco-how-to-debug-anything
+  attendance: 9
+  comments: >
+    Useful, and good story, but a bit lower level than we wanted. strace is
+    amazing. There are so many valuable unix tools.
+  related-links:
+    - http://www.brendangregg.com/linuxperf.html
+- date: 2014-08-13
+  videos:
+    - title: Scrum Sucks
+      speaker: "Frank D'Andrea"
+      url: http://igniteshow.com/videos/ignite-tao-v4-may-162013-frank-dandrea
+    - title: Adventures with Micro Services in Rails
+      speaker: Anand Agrawal
+      url: http://www.confreaks.com/videos/3858-rdrc2014-adventures-with-micro-services-in-rails
+  attendance: 8
+  comments: >
+    Kind of disappointing. Did not explain well what the benefits of
+    microservices are over a more monolithic service-oriented architecture.
+    We are doing some things better, notably including how frequently we
+    deploy.
+- date: 2014-08-20
+  videos:
+    - title: This is PostGIS
+      speaker: Paul Ramsey
+      url: https://www.youtube.com/watch?v=LSLxLYg3SoA
+  attendance: 11
+  comments: >
+    Some exciting stuff and some dry stuff. Flirted a lot with the
+    too-love-level line, but had some good tips. Search term to remember was
+    "thing-I-want shape file", which can be easily imported into PostGIS.
+    Location is the universal key - you can join anything with anything else by
+    querying for "a with x distance of b".
+- date: 2014-08-27
+  videos:
+    - title: Delete Your Code
+      speaker: Aleksander Dabrowski
+      url: https://www.youtube.com/watch?v=Oj4vXMRenFo
+    - title: Therapeutic Refactoring
+      speaker: Katrina Owen
+      url: http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring
+  attendance: 10
+  comments: >
+    :+1: Really good. The two talks worked well together, and the main talk had
+    a great demo of how to make a block of bad code better. See also the
+    Feathers book (which I have yet to read).
+- date: 2014-09-03
+  videos:
+    - title: Designing and Evaluating Reusable Components
+      speaker: Casey Muratori
+      url: http://mollyrocket.com/casey/stream_0028.html
+  attendance: 7
+  comments: >
+    Beginning and end were good, kinda bogged down in the middle; too much
+    C/C++ stuff. The summary at the end was really valuable. More targetted at
+    library/gem APIs than REST APIs.
+  related-links:
+    - http://mollyrocket.com/casey/stream_0029.html
+- date: 2014-09-10
+  videos:
+    - title: Testivus on Testability
+      speaker: Alberto Savoia
+      url: https://www.youtube.com/watch?v=wJbQgC_KTtg
+    - title: 'Grease your Suite: Tips and Tricks for Faster Testing'
+      speaker: Nick Gauthier
+      url: http://confreaks.com/videos/1558-windycityrails2010-grease-your-suite-tips-and-tricks-for-faster-testing
+  attendance: 13
+  comments: >
+    Amusing lightning talk; felt a little bit padded. Main talk was good, and
+    the speaker was really good. There are some easy things we can do right
+    now like filesystem tuning. The gem is no longer maintained and the Ruby
+    Enterprise stuff is no longer relevant, but those kinds of ideas might
+    still translate.
+  related-links:
+    - https://github.com/ngauthier/hydra
+    - http://grease-your-suite.herokuapp.com/
+- date: 2014-09-17
+  videos:
+    - title: 'Prototyping: Fake It Till You Make It'
+      speaker: Jeffrey Traer Bernstein, Linda Dong, Julian Missig, Mark Hauenstein
+      url: https://developer.apple.com/videos/wwdc/2014/
+  attendance: 11
+  comments: >
+    "Keynote is really cool. It can't just be designed for giving
+    presentations. Putting the pictures on the phone is so obvious in
+    retrospect, but it's a really good idea. Definitely worth watching, and
+    definitely worth an hour."
+- date: 2014-09-24
+  videos:
+    - title: 'Delivering Performance Under Schedule and Resource Pressure: Lessons Learned at Google and Microsoft'
+      speaker: Ivan Filho
+      url: http://www.infoq.com/presentations/performance-manager-google-microsoft
+  attendance: 10
+  comments: >
+    'Performance is a team problem. Engineers should default to working on
+    performance. Engineers work on micro metrics, which (in aggregate) should
+    move tactical metrics, which should move (in aggregate) business metrics.
+    Like flying: you are either moving forward or falling.'
+- date: 2014-10-01
+  videos:
+    - title: Hammock Driven Development
+      speaker: Rich Hickey
+      url: https://www.youtube.com/watch?v=f84n5oFoZBc
+  attendance: 5
+  comments: >
+    "Lots of gems. Interesting to think of loading up agenda items for your
+    sleeping mind to process. Lots of writing. For a rant about methodology,
+    this seems like a methodology."
+- date: 2014-10-08
+  videos:
+    - title: Estimation for the Real World
+      speaker: Chris Trevarthen
+      url: http://www.infoq.com/presentations/estimate-time
+  attendance: 8
+  comments: >
+    "Useful discussion afterwards about kanban vs sprints with Wellero folks."
+- date: 2014-10-15
+  videos:
+    - title: Reactive Design and Language Paradigms
+      speaker: Dean Wampler
+      url: https://www.youtube.com/watch?v=4L3cYhfSUZs
+  attendance: 6
+- date: 2014-10-29
+  videos:
+    - title: What we can learn from terrible data viz
+      speaker: Katie Park
+      url: http://vimeo.com/91941031
+    - title: Data Economy
+      speaker: James Whittaker
+      url: https://www.youtube.com/watch?v=cAgGPbko22A
+  attendance: 6
+  comments: >
+    "Entertaining speaker, sometimes pretty off-topic, interesting things to say.
+    Kinda like somebody's embarassing uncle. Clarifies a bit about how bing works
+    - it tends to be a little bit pushier. It's always going to have gamesmanship.
+    The presentation layer becomes the gatekeeper."
+- date: 2014-11-05
+  videos:
+    - title: Sufficiently Advanced Monitoring is Indistinguishable from Testing
+      speaker: Ed Keyes
+      url: https://www.youtube.com/watch?v=uSo8i1N18oc
+    - title: I Don’t Test Often… But When I Do, I Test in Production
+      speaker: Gareth Bowles
+      url: https://www.youtube.com/watch?v=6ZvCU0dht50#t=5h04m21s
+  attendance: 5
+  comments: >
+    "A lot of the Netflix test automation is pretty well-advertised already,
+    and some of the rest can be inferred, but there was some really interesting
+    stuff in there. The monkey army is run by default, but only during business
+    hours. He also introduced the really cool idea of measuring code coverage
+    in production."
+- date: 2014-11-12
+  videos:
+    - title: "Huh? Nah! Mmm? Ahh! : Changing Organizations by Focusing on People"
+      speaker: Matt Ballantine
+      url: http://www.infoq.com/presentations/change-organizations-people-focus
+  attendance: 7
+  comments: >
+    "Good talk, good speaker. I liked that he called out that you need buy in
+    from the top, and success stories from peers."
+- date: 2014-11-19
+  videos:
+    - title: The Mom Test
+      speaker: David Simner
+      url: https://www.youtube.com/watch?v=8JyIB_mrzWU
+    - title: The Best Interface is No Interface
+      speaker: Golden Krishna
+      url: https://www.youtube.com/watch?v=w0AdsVReXi8
+  related-links:
+    - http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface
+  attendance: 5
+  comments: >
+    "We're kind of doing some of this already with devices. This all feels a
+    bit slippery to get a grip on, though - good ideas without being super
+    actionable. What now?"
+- date: 2014-11-25
+  videos:
+    - title: Computers are a Sadness, I am the Cure
+      speaker: James Mickens
+      url: http://vimeo.com/95066828
+  related-links:
+    - http://research.microsoft.com/en-us/people/mickens/
+  attendance: 7
+  comments: >
+    "Content light; more problem-oriented than solution-oriented. Some good
+    points about NoSQL and security."
+- date: 2014-12-02
+  videos:
+    - title: "Pacific Northwest Scala 2013 We're Doing It All Wrong"
+      speaker: Paul Phillips
+      url: https://www.youtube.com/watch?v=TS1lpKBMkgg
+  attendance: 5
+  comments: >
+    "'modification is undesirable, but modifiability is paramount', 'however
+    slow the correct way, it is much faster than trying to figure out why the
+    so-called fast way is not working'"
+- date: 2014-12-09
+  videos:
+    - title: Ruby Monsters Go Bump in the Night
+      speaker: Jonan Scheffler
+      url: http://www.confreaks.com/videos/4789-KeepRubyWeird14-ruby-monsters-go-bump-in-the-night
+  related-links:
+    - http://keeprubyweird.com/speakers/
+    - http://keeprubyweird.com/images/sketchnotes/6_jonan.jpg
+  attendance: 6
+  comments: >
+    "Good video to review before a Ruby interview. Good explanation of why
+    return out of a block works as it does (because for loops)."
+- date: 2014-12-16
+  videos:
+    - title: Achieving Your Childhood Dreams
+      speaker: Randy Pausch
+      url: https://www.youtube.com/watch?v=ji5_MqicxSo
+  related-links:
+    - http://en.wikipedia.org/wiki/Really_Achieving_Your_Childhood_Dreams
+    - http://www.cmu.edu/randyslecture/
+  attendance: 6
+  comments: >
+    "Only Jason and Loren had seen this before. So good! Bit long; will
+    probably have to split up longer talks in the future."
+- date: 2015-01-08
+  videos:
+    - title: Continuously Deploying Culture
+      speaker: Michael Rembetsy and Patrick McDonnell
+      url: http://vimeo.com/51310058
+  related-links:
+    - http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485
+    - http://itrevolution.com/one-of-the-best-devops-talks-on-it-transformation-continuously-deploying-culture-by-rembetsy-and-mcdonnell-velocity-london-2012/
+    - http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
+  attendance: 7
+  comments: >
+    "Good video, good conversation after."
+
+- dated: TBA
+  videos:
+    - title: 'Getting Down To Earth: Geospatial Analysis With Rails'
+      url: http://confreaks.com/videos/856-railsconf2012-getting-down-to-earth-geospatial-analysis-with-rails
+    - title: Great User Support - Daniel Jalkut
+      url: http://vimeo.com/90378580
+    - title: 'Chris Williams: An End to Negativity'
+      url: https://www.youtube.com/watch?v=17rkSdkc5TI
+    - title: 'AWS Face Off: Heroku vs. EC2 vs. RDS'
+      url: http://vimeo.com/105723873
+    - title: 'The integrations we fear and how we can manage them - Karoline Klever'
+      url: http://vimeo.com/89484179
+    - title: Architecture War Stories
+      url: http://www.infoq.com/presentations/architecture-disaster
+    - title: Use PostgreSQL, Not Rails, to Make Rails Faster!
+      speaker: Dan McClain
+      url: http://postgresopen.org/events/sessions/pgopen2014/session/27-use-postgresql-not-rails-to-make-rails-faster/
+      url: https://www.youtube.com/watch?v=tYTw3Jshrqo
+    - title: Creating Mobile Designs That Scale
+      speaker:
+      url: http://bjango.com/articles/max2014/
+    - title: Virtual Machines, JavaScript and Assembler
+      speaker: Scott Hanselman
+      url: https://www.youtube.com/watch?v=FZYrlKbkLe8
+    - title: Refactoring; or Why Your Code Sucks and How to Fix It
+      speaker: Christopher Groskopf
+      url: http://vimeo.com/91425592
+    - title: "The Functional Programming Concepts in Facebook's Mobile Apps"
+      speaker: Adam Ernst
+      url: http://www.infoq.com/presentations/fp-facebook-mobile-apps
+    - title: "Nike's Journey into Microservices"
+      speaker: Jason Robey
+      url: https://www.youtube.com/watch?v=h30ViSEZzW0
+    - title: Workflows of Refactoring (Part 1)
+      speaker: Martin Fowler
+      url: http://www.infoq.com/presentations/workflow-refactoring
+    - title: Not Just Code Monkeys (Part 2)
+      speaker: Martin Fowler
+      url: http://www.infoq.com/presentations/healthy-social-environment
+    - title: Build Better Content
+      speaker: Jonathon Colman
+      url: https://www.youtube.com/watch?v=ka0lTJuPJT8
+    - title: Seven Deadly Sins of Software Deployment
+      speaker: Josh Berkus
+      url: https://www.youtube.com/watch?v=VG5ZOOb5T9o
+  sources:
+    - name: NSConference Videos
+      url: http://vimeo.com/nsconf/videos
+    - name: Postgres Open
+      url: https://www.youtube.com/user/postgresopen/videos
+    - name: Killer Talks
+      url: https://github.com/PharkMillups/killer-talks
+    - name: Awesome Talks
+      url: https://github.com/JanVanRyswyck/awesome-talks
+    - name: InfoQ Presentations
+      url: http://www.infoq.com/presentations/
+    - name: Confreaks
+      url: http://confreaks.com/videos/
+    - name: Confreaks
+      url: https://www.youtube.com/user/Confreaks/playlists?shelf_id=0&view=1&sort=dd
+    - name: "Ignite - elighten us, but make it quick"
+      url: http://igniteshow.com/browse
+    - name: AltConf
+      url: https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/videos
+    - name: AltConf
+      url: http://www.altconf.com/speakers/
+    - name: Lightning talk search on Twitter
+      url: https://twitter.com/search?q=lightning%20talk&src=typd&mode=videos
+    - name: Must-See Tech Talks for Every Programmer
+      url: http://brikis98.blogspot.com/2014/05/must-see-tech-talks-for-every-programmer.html
+    - name: NewRelic FutureStack13
+      url: https://www.youtube.com/playlist?list=PLmhYj7Jl81JEMKm0LFHjn25GV6gUUU9IR
+    - name: Talks
+      url: http://talks.guru/
+    - name: The best of tech talks in one place
+      url: http://www.aula.io/
+    - name: "GTAC 2011: Lightning Talks II (Web Testing)"
+      url: http://talkminer.com/viewtalk.jsp?videoid=bU5lb32EY8s&q=#.VA-KVVu7ni4
+    - name: "Rich Hickey's Greatest Hits"
+      url: http://thechangelog.com/rich-hickeys-greatest-hits/
+    - name: a list of must-watch videos devoted to JavaScript
+      url: https://github.com/bolshchikov/js-must-watch
+    - name: Delight 2014 Conference
+      url: https://www.youtube.com/playlist?list=PLhrLw2VtaKLuP9T919PznQ4wOuY67MQN-
+    - name: NSScotland 2014
+      url: http://vimeo.com/album/3132071
+    - name: UIKonf
+      url: http://www.uikonf.com/videos/
