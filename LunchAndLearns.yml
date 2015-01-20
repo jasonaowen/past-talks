@@ -276,3 +276,20 @@
       speaker: Jason Robey
       url: https://www.youtube.com/watch?v=h30ViSEZzW0
   attendance: 4
+- date: 2015-01-22
+  videos:
+    - title: Confident Code
+      speaker: Avdi Grimm
+      url: https://www.youtube.com/watch?v=T8J0j2xJFgQ
+  related-links:
+    - http://en.oreilly.com/rails2011/public/schedule/detail/18418
+    - http://avdi.org/talks/confident-code-railsconf-2011/
+  attendance: 7
+  comments: >
+    "Almost exactly mirrors Clean Code chapeter 7, error handling: don't pass
+    around nil/null; instead, use special case objects. Keep to the clear
+    narrative structure: 1. gather input 2. perform work 3. deliver results
+    4. handle failure, and most if not all of 4 should be in helper methods.
+    Mostly this translates well to other languages, although the block-based
+    stuff doesn't translate as easily. Good turnout - different people than
+    usually attend these."
