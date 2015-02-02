@@ -56,3 +56,32 @@
     - title: "The Functional Programming Concepts in Facebook's Mobile Apps"
       speaker: Adam Ernst
       url: http://www.infoq.com/presentations/fp-facebook-mobile-apps
+    - title: "Conditions for Best Job Ever, Team Communication and Five Rules of Learning"
+      speaker: Diana Larsen
+      url: http://www.infoq.com/interviews/agile2014-larsen-bestjob
+    - title: "Building Pinterest's Mobile Apps"
+      speaker: Mike Beltzner
+      url: http://www.infoq.com/presentations/pinterest-app
+    - title: "Tumblr - Bits to Gifs"
+      speaker: John Bunting
+      url: http://www.infoq.com/presentations/tumblr-services
+    - title: Complexity Is Outside the Code
+      speaker: Dan North and Jessica Kerr
+      url: http://www.infoq.com/presentations/complexity-simplicity-esb
+    - title: Software Development in the 21st century
+      speaker: Martin Fowler
+      url: http://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014
+      url: http://gotocon.com/berlin-2014/presentation/Opening%20Keynote:%20Software%20Design%20in%20the%2021st%20Century
+      url: http://www.infoq.com/news/2013/04/software-design-21st-century
+    - title: Be Awesome By Being Boring
+      speaker: John Hyland
+      url: http://confreaks.com/videos/4135-cascadiaruby2014-be-awesome-by-being-boring
+    - title: "Why We Can't Have Nice Things: Unicode, Dates, and Names"
+      speaker: John Feminella
+      url: http://confreaks.com/videos/4151-cascadiaruby2014-why-we-can-t-have-nice-things-unicode-dates-and-names
+    - title: The Art of Learning and Mentoring
+      speaker: Jutta Eckstein
+      url: http://www.infoq.com/presentations/pedagogical-patterns-tools
+    - title: Product Strategy in 7 minutes
+      speaker: Des Traynor
+      url: http://blog.intercom.io/talk-product-strategy-saying/
