@@ -1,0 +1,27 @@
+- date: 2015-05-12
+  videos:
+    - title: The Future of Programming
+      speaker: Bret Victor
+      url: http://worrydream.com/dbx/
+  attendance: 15
+  comments: >
+    Well presented, very authentic - only thing missing from his IBM technician
+    outfit was a cigarette. The 60s/70s was such a fertile period for computing
+    because we didn't know how computers were supposed to work, so we just
+    tried everything. The surest barrier to discovering something is thinking
+    you already know it. Lots of detailed notes and commentary in the link.
+- date: 2015-05-26
+  videos:
+    - title: Treat Your Code as a Crime Scene
+      speaker: Adam Tornhill
+      url: http://www.infoq.com/presentations/code-bugs-legacy-pitfalls
+  attendance: 16
+  related-links:
+    - https://twitter.com/AdamTornhill
+    - http://www.adamtornhill.com/articles/crimegallery/codecrimescenegallery.htm
+    - http://reevoo.github.io/blog/2015/05/21/your-code-as-a-crime-scene/
+  comments: >
+    "Intuition doesn't scale." "Complexity is only a problem when we have to
+    deal with it." Lots of nods of agreement throughout. One of the last
+    proposed ideas was to hook up and monitor the IDE; this sounds okay in
+    theory, if a bit Orwellian, and will the gathered data be useful or noisy?
