@@ -38,3 +38,18 @@
     available in response." "Responsiveness is an attitude." "The apps that
     survive are the ones that adapt and respond." What options do our decisions
     open, and what doors do they close? Inspiring talk!
+- date: 2015-06-09
+  videos:
+    - title: Release Testing is Risk Management Theatre
+      speaker: Steve Smith
+      url: http://www.infoq.com/presentations/release-testing
+  attendance: 18
+  comments: >
+    "Release testing segregates authority from responsibility." In tests, you
+    want "speed and determinism." This is more targetted at cloud delivery than
+    on-prem. It's on both devs and testers to know the impact of changes,
+    rather than trying to shake out distant dependencies in release testing.
+    Some of our clients might be willing to pick up more frequent changes,
+    perhaps in their dev environments.
+  related-links:
+    - https://www.simple-talk.com/opinion/opinion-pieces/release-testing-is-risk-management-theatre/
