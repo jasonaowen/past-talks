@@ -53,3 +53,19 @@
     perhaps in their dev environments.
   related-links:
     - https://www.simple-talk.com/opinion/opinion-pieces/release-testing-is-risk-management-theatre/
+- date: 2015-06-16
+  videos:
+    - title: Developing ClojureScript With Figwheel
+      speaker: Bruce Hauman
+      url: https://www.youtube.com/watch?v=j-kj2qwJa_E
+  attendance: 9
+  comments: >
+    A tight feedback loop is critical. From a front-end dev POV, this is
+    mindblowing. You can build this in whatever, since it is just a websocket
+    and some javascript - the challenge is making sure your javascript stack is
+    reloadable. Kinda like Swift Playgrounds, but even more powerful. That
+    tight feedback loop is why we build dev mode, because reloading is better
+    than redeploying.
+  related-links:
+    - https://github.com/bhauman/lein-figwheel
+    - https://github.com/bhauman/crashverse
