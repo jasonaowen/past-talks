@@ -69,3 +69,18 @@
   related-links:
     - https://github.com/bhauman/lein-figwheel
     - https://github.com/bhauman/crashverse
+- date: 2015-07-07
+  videos:
+    - title: Lambda Mechanics
+      speaker: Marc Hoffmann
+      url: http://www.infoq.com/presentations/lambda-java8
+  attendance: 18
+  comments: >
+    Lambdas are so much cleaner than Guava. We have spent a lot of work to make
+    using Guava performant, and much but not all of that would go away with
+    lambdas. Groovy seems like it would benefit from some of this, but when
+    they were updating to target the Java 8 language level, they found that
+    performance was such a moving target that they ended up not using some of
+    the new features.
+  related-links:
+    - https://github.com/marchof/lambda-mechanics
