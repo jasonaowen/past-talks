@@ -84,3 +84,18 @@
     the new features.
   related-links:
     - https://github.com/marchof/lambda-mechanics
+- date: 2015-07-21
+  videos:
+    - title: Building And Releasing an Online Game From Nothing With NoOps
+      speaker: Jamie Winsor
+      url: https://www.youtube.com/watch?v=0LcxsYdP_Oc
+  attendance: 19
+  comments: >
+    Hire full stack engineers; get buy-in on (tech) choices; syntax kinda does
+    matter - "syntax doesn't matter, especially when you already know it";
+    every engineer needs to understand app langauges and cloud tooling; conduct
+    positive code reviews; own your problems. Terraform sounds cool, as does
+    consul. "Go is a modern language" - what makes it so?
+  related-links:
+    - https://chefconf2015a.sched.org/event/2a216c7197761a718872bd3a5cf16a5c
+    - http://www.slideshare.net/chef-software/building-and-releasing-an-online-game-from-nothing-with-noops-chefconf-2015
