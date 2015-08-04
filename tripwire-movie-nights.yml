@@ -99,3 +99,16 @@
   related-links:
     - https://chefconf2015a.sched.org/event/2a216c7197761a718872bd3a5cf16a5c
     - http://www.slideshare.net/chef-software/building-and-releasing-an-online-game-from-nothing-with-noops-chefconf-2015
+- date: 2015-07-28
+  videos:
+    - title: Testing the Hard Stuff and Staying Sane
+      speaker: John Hughes
+      url: http://www.infoq.com/presentations/testing-techniques-case-study
+  attendance: 23
+  related-links:
+    - http://lanyrd.com/2014/craftconf/scwhct/
+  comments: >
+    This seems like fuzz testing, but this does the minimal example, which is
+    really cool. He glossed over how to wire it up; is that the hard part?
+    Would it work with selenium? Might be slow and tie up a machine for a long
+    time.

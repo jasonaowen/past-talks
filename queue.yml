@@ -88,13 +88,9 @@
     - title: Amelia Bedelia Learns to Code
       speaker: Kylie Stradley
       url: http://kyfast.net/talks/2015/05/14/amelia-bedelia-learns-to-railsconf/
-    - title: Testing the Hard Stuff and Staying Sane
-      speaker: John Hughes
-      url: http://www.infoq.com/presentations/testing-techniques-case-study
     - title: Reactive REST
       speaker: Jafar Husain
       url: http://www.infoq.com/presentations/netflix-reactive-rest
-      url: http://lanyrd.com/2014/craftconf/scwhct/
     - title: Developing Passion, in Many Senses
       speaker: Jon Skeet
       url: http://www.infoq.com/presentations/developer-passion
