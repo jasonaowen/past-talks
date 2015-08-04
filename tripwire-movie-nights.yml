@@ -112,3 +112,19 @@
     really cool. He glossed over how to wire it up; is that the hard part?
     Would it work with selenium? Might be slow and tie up a machine for a long
     time.
+- date: 2015-08-04
+  videos:
+    - title: Reactive REST
+      speaker: Jafar Husain
+      url: http://www.infoq.com/presentations/netflix-reactive-rest
+  attendance: 15
+  related-links:
+    - http://techblog.netflix.com/2013/01/reactive-programming-at-netflix.html
+  comments: >
+    "Tree + references = graph", except only acyclic graphs. This approach
+    evaluates and caches references on the client. They added an escape hatch
+    for procedural stuff: a call returns a list of references for the client to
+    invalidate in its cache. Netflix has a very simple domain so this works
+    really well for them; it probably would not work as well for TE. We do not
+    want to build an entire new interface model; we would lose the advantage of
+    simple clients we get with HTTP+REST.
