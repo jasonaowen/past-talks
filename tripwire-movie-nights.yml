@@ -128,3 +128,26 @@
     really well for them; it probably would not work as well for TE. We do not
     want to build an entire new interface model; we would lose the advantage of
     simple clients we get with HTTP+REST.
+- date: 2015-08-11
+  videos:
+    - title: Complexity Is Outside the Code
+      speaker: Dan North and Jessica Kerr
+      url: http://www.infoq.com/presentations/complexity-simplicity-esb
+  related-links:
+    - http://www.slideshare.net/jessitron/complexity-is-outside-the-code
+    - https://www.flickr.com/photos/rockchalk/19158011635/
+    - https://www.flickr.com/photos/rockchalk/18971888749/
+    - https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard
+  attendance: 17
+  notes: >
+    "If you're uncertain, give a range." "Surface risk." Devs all too
+    frequently use "time to hello, world" as a metric. Part of kaizen is to
+    improve process, but also need to question process. "Sustainably minimize
+    lead time to business impact."
+  comments: >
+    We're actually decent and some of this. Estimates that are too big should
+    be broken down into smaller stories, perhaps with research stories ahead of
+    further estimation. Beware bundling "research X and implement it", because
+    it doesn't allow time to learn and benefit from that knowledge. There is
+    tension between "let each person learn/handle the things they are
+    interested in" and "avoid silos".
