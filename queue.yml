@@ -98,3 +98,7 @@
     - title: API Design Methodology
       speaker: Mike Amundsen
       url: www.infoq.com/presentations/api-design-methodology
+    - title: Boundaries
+      speaker: Gary Bernhardt
+      url: https://www.destroyallsoftware.com/talks/boundaries
+      url: https://medium.com/@davidihunt/tdd-and-complexity-1bbd5ca51ee7
