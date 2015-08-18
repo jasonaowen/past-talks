@@ -151,3 +151,22 @@
     it doesn't allow time to learn and benefit from that knowledge. There is
     tension between "let each person learn/handle the things they are
     interested in" and "avoid silos".
+- date: 2015-08-18
+  videos:
+    - title: An Exploration on the Purpose of Rules
+      speaker: Sandi Metz
+      url: https://www.youtube.com/watch?v=6FhkI1FMheA
+  related-links:
+    - https://blog.newrelic.com/2014/03/05/futuretalk-sandi-metz/
+  attendance: 17
+  notes: >
+    "You won't ever understand [your OO app] the way you do [your procedural
+    app]." Cost for being more OO is higher cognitive load when thinking about
+    how the app works. You don't need to understand everything. Long-lived app
+    is a kind of shared commons. "Bad programming drives out good."
+  comments: >
+    Sandi Metz is amazing. Although this is talking about Ruby on Rails, very
+    little is ruby- or rails-specific. Blindly following rules is rarely a good
+    idea, but it sounds like she's saying the fact of the rules is more
+    important than the content of the rules. Part of the team storming and
+    norming might be to agree upon the set of rules.
