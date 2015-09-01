@@ -170,3 +170,16 @@
     idea, but it sounds like she's saying the fact of the rules is more
     important than the content of the rules. Part of the team storming and
     norming might be to agree upon the set of rules.
+- date: 2015-08-25
+  videos:
+    - title: Be Awesome By Being Boring
+      speaker: John Hyland
+      url: http://confreaks.com/videos/4135-cascadiaruby2014-be-awesome-by-being-boring
+  attendance: 21
+  notes:
+    Make sure you're solving a real problem. Perf _can_ be a real problem.
+    Boring choice is stable, reliable, has good tools, you already know it, and
+    might ahve already deployed it. DNS SRV records over zookeeper, for
+    example. Evaluate by age, usage, average issue age, most recent commit,
+    number of stars / watchers, etc. Non-standard tech is expensive: make sure
+    it's worth it.
