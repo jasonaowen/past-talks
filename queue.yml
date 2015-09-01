@@ -35,9 +35,6 @@
     - title: Build Better Content
       speaker: Jonathon Colman
       url: https://www.youtube.com/watch?v=ka0lTJuPJT8
-    - title: Seven Deadly Sins of Software Deployment
-      speaker: Josh Berkus
-      url: https://www.youtube.com/watch?v=VG5ZOOb5T9o
     - title: "Unit Testing on iOS: No Voodoo necessary"
       speaker: Tim Brückmann
       url: http://www.uikonf.com/videos/unit-testing-on-ios-no-voodoo-necessary/
@@ -76,9 +73,6 @@
     - title: The Art of Learning and Mentoring
       speaker: Jutta Eckstein
       url: http://www.infoq.com/presentations/pedagogical-patterns-tools
-    - title: Product Strategy in 7 minutes
-      speaker: Des Traynor
-      url: http://blog.intercom.io/talk-product-strategy-saying/
     - title: Amelia Bedelia Learns to Code
       speaker: Kylie Stradley
       url: http://kyfast.net/talks/2015/05/14/amelia-bedelia-learns-to-railsconf/

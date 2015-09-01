@@ -176,10 +176,48 @@
       speaker: John Hyland
       url: http://confreaks.com/videos/4135-cascadiaruby2014-be-awesome-by-being-boring
   attendance: 21
-  notes:
+  notes: >
     Make sure you're solving a real problem. Perf _can_ be a real problem.
     Boring choice is stable, reliable, has good tools, you already know it, and
     might ahve already deployed it. DNS SRV records over zookeeper, for
     example. Evaluate by age, usage, average issue age, most recent commit,
     number of stars / watchers, etc. Non-standard tech is expensive: make sure
     it's worth it.
+- date: 2015-09-01
+  videos:
+    - title: Not an Estimating Problem
+      speaker: Dale Emery
+      url: https://www.youtube.com/watch?v=Wq16Cx0ScEo
+    - title: Anyone Can Test
+      speaker: Rob Sabourin
+      url: https://www.youtube.com/watch?v=0vzbfpCU8Po
+    - title: Technical Intimidation
+      speaker: Chris Morris
+      url: http://clabs.org/blog/TechnicalIntimidation
+    - title: Monitoring is Never 'Done'
+      speaker: Melanie Cey
+      url: https://vimeo.com/131502999
+    - title: Product Strategy is About Saying No
+      speaker: Des Traynor
+      url: https://vimeo.com/81544164
+    - title: Seven Deadly Sins of Software Deployment
+      speaker: Josh Berkus
+      url: https://www.youtube.com/watch?v=VG5ZOOb5T9o
+    - title: 17th Century Shipbuilding and Your Failed Software Product
+      speaker: Pete Cheslock
+      url: http://vimeo.com/95284690
+    - title: Delete Your Code
+      speaker: Aleksander Dabrowski
+      url: https://www.youtube.com/watch?v=Oj4vXMRenFo
+  attendance: 19
+  notes: >
+    Distinguish between "estimates" and "commitments". Communication is always
+    key, in QA as in everywhere else. Software is hard; prefer broad design
+    skills to platform knowledge; "always be the worst guy in every band you're
+    in." Monitoring process is "definition, collection, visualation, action".
+    1,000 "no"s for every "yes"; "If you have time to lean, you have time to
+    clean." Test and communicate well; trust your team. Schedule pressure is a
+    big problem; communication (again!). Delete your code!
+  comments: >
+    Lightning talks went well - if you're not into a video, you're only out 5
+    minutes instead of 45.
