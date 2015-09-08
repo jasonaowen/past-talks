@@ -221,3 +221,13 @@
   comments: >
     Lightning talks went well - if you're not into a video, you're only out 5
     minutes instead of 45.
+- date: 2015-09-08
+  videos:
+    - title: "Chef Metal: Automate Your Whole Cluster In Chef"
+      speaker: John Keiser
+      url: https://www.youtube.com/watch?v=Yb8QdL30WgM
+  attendance: 14
+  comments: >
+    Cool idea, but it seems heavily oriented towards reducing cloud computing
+    costs, which isn't a problem we really have. 'Alpha' status means we
+    probably won't use it for quite some time.
