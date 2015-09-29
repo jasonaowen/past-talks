@@ -99,3 +99,7 @@
     - title: Introduction to Java Profiling
       speaker: Jerry Yoakum
       url: http://www.infoq.com/presentations/java-profiling
+    - title: "30 Minutes or Less: The Magic of Automated Accessibility Testing"
+      speaker: Marcy Sutton
+      url: https://www.youtube.com/watch?v=-XUmf_RPF8k
+      url: http://marcysutton.github.io/a11y-automated-testing/
