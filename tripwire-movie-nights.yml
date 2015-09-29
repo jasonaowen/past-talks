@@ -253,3 +253,15 @@
     treats security as a brand, and gets people to buy in. DevSecOps!
   comments: >
     Much of this applies to any support organization. Boot camps are useful.
+- date: 2015-09-29
+  videos:
+    - title: "Web Design: The First Hundred Years"
+      speaker: Maciej Ceglowski
+      url: https://youtu.be/nwhZ3KEqUlw
+  related-links:
+    - http://idlewords.com/talks/web_design_first_100_years.htm
+  attendance: 19
+  comments: >
+    Moore's Law is easy to measure, but how do you measure UX? This may have
+    driven some of the poor design decisions. "One of the best Movie Nights so
+    far."
