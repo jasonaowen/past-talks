@@ -97,3 +97,6 @@
       speaker: Charity Majors
       url: http://www.heavybit.com/library/video/2015-02-24-charity-majors
       url: http://d3aeja1uqhkije.cloudfront.net/2015-02-24-charity-majors/2015-02-24-charity-majors-slides.pdf
+    - title: Is TDD Dead?
+      speaker: Kent Beck, David Heinemeier Hansson, Martin Fowler
+      url: http://martinfowler.com/articles/is-tdd-dead/
