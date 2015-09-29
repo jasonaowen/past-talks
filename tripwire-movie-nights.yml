@@ -231,3 +231,25 @@
     Cool idea, but it seems heavily oriented towards reducing cloud computing
     costs, which isn't a problem we really have. 'Alpha' status means we
     probably won't use it for quite some time.
+- date: 2015-09-15
+  videos:
+    - title: Crafting an Effective Security Organization
+      speaker: Rich Smith
+      url: http://www.infoq.com/presentations/security-etsy
+  attendance: 18
+  notes: >
+    People are a part of security. Beware "Security Ego". Enable, don't block,
+    or else be routed around. Invest in outreach. "Seed champions" - etsy
+    embeds devs in security team for 4 weeks. Lower the barrier to see - be
+    accessible and visible. Use blameless postmortems - see also Erik
+    Hollnagel. Indicators of an effective security organization: data-driven,
+    understands nuance, understands that security is a goal rather than a point;
+    runs a bug bounty, which improves the results of pentesters because the low
+    hanging fruit is gone and pentesters hate to submit an empty report, and
+    feeds QA by directing attention to the areas were bugs are most frequently
+    found; doesn't cry wolf, and has security engineers in the codebase instead
+    of on the sidelines; makes realistic tradeoffs, understands '"no"s are a
+    finite resource'; provides context and impact; recognizes and rewards;
+    treats security as a brand, and gets people to buy in. DevSecOps!
+  comments: >
+    Much of this applies to any support organization. Boot camps are useful.
