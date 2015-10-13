@@ -265,3 +265,23 @@
     Moore's Law is easy to measure, but how do you measure UX? This may have
     driven some of the poor design decisions. "One of the best Movie Nights so
     far."
+- date: 2015-10-06
+  videos:
+    - title: "30 Minutes or Less: The Magic of Automated Accessibility Testing"
+      speaker: Marcy Sutton
+      url: https://www.youtube.com/watch?v=-XUmf_RPF8k
+  related-links:
+    - http://marcysutton.github.io/a11y-automated-testing/
+  attendance: 15
+  notes: >
+    Focus management is curating the keyboard tab experience; try just tabbing
+    through a site. Color contrast is important, and there are standards around
+    this. Check out gov.uk for a site that exemplifies focus management but
+    needs a bit of work on color contrast. WAI-ARIA is a W3C Recommendation.
+    Look at the automated tests in the Chrome GitHub organization. Look at
+    Protractor for end-to-end testing.
+  comments: >
+    "I didn't even know there was such a thing as a screen reader!" "Does GWT
+    have accessibility features?" you could add stuff by hand; not sure if
+    actual features. There is a Section 508 government accessibility thing,
+    but it's just a self-assessment - the Oracle database has it!
