@@ -285,3 +285,18 @@
     have accessibility features?" you could add stuff by hand; not sure if
     actual features. There is a Section 508 government accessibility thing,
     but it's just a self-assessment - the Oracle database has it!
+- date: 2015-10-13
+  videos:
+    - title: Introduction to Java Profiling
+      speaker: Jerry Yoakum
+      url: http://www.infoq.com/presentations/java-profiling
+  related-links:
+    - https://space.zeo.net/g/5eycb
+  attendance: 16
+  notes: >
+    Only optimize once you know you have a problem. Start with wider nets
+    before you go narrow. Use snapshots. Try multiple profilers. Make sure
+    you're measuring what you intend - the compiler can rewrite, and measuring
+    it will change it. Nothing compares to production.
+  comments: >
+    More perf talks!

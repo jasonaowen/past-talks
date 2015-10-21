@@ -96,9 +96,6 @@
     - title: Is TDD Dead?
       speaker: Kent Beck, David Heinemeier Hansson, Martin Fowler
       url: http://martinfowler.com/articles/is-tdd-dead/
-    - title: Introduction to Java Profiling
-      speaker: Jerry Yoakum
-      url: http://www.infoq.com/presentations/java-profiling
     - title: Real Software Engineering
       speaker: Glenn Vanderburg
       url: http://confreaks.tv/videos/scotlandruby2011-real-software-engineering
