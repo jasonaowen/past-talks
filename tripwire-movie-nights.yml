@@ -300,3 +300,21 @@
     it will change it. Nothing compares to production.
   comments: >
     More perf talks!
+- date: 2015-10-20
+  videos:
+    - title: The Reward
+      speaker: James Shore
+      url: http://www.infoq.com/presentations/agile-success
+  related-links:
+    - http://martinfowler.com/articles/agileFluency.html
+  attendance: 16
+  notes: >
+    Cargo culting with agile methods. 90s software crisis: 1/6 projects
+    succeeded, 1/3 failed. Revisit 4 values of Agile. Same survey, this time
+    of agile projects: 66% succeeded, 6% failed. Fluency is unconscious
+    competence. Agile fluency model. Agile is how you think; org thinking
+    overrides team thinking.
+  comments: >
+    How high on the agile fluency model can we get? The detail in the slides
+    is more useful than just the map. Does this model enable an org to avoid
+    reflecting on its culture?
