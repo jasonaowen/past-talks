@@ -318,3 +318,13 @@
     How high on the agile fluency model can we get? The detail in the slides
     is more useful than just the map. Does this model enable an org to avoid
     reflecting on its culture?
+- date: 2015-10-27
+  videos:
+    - title: "Why Your Team Has Slowed Down, Why That's Worse than You Think, and How to Fix it"
+      speaker: Edmund Jorgensen
+      url: http://www.infoq.com/presentations/economy-team-slow-down
+  attendance: 15
+  notes: >
+    Reducing latency generates information, which equals probable money. What
+    are things that everyone hates to do? Aim for 30% time. Start with visible
+    improvements that VIPs care about, as skunkworks if necessary.
