@@ -336,3 +336,24 @@
   attendance: 21
   notes: >
     "The pit of success" - make easy things easy. Know the purpose of a language.
+- date: 2015-11-10
+  videos:
+    - title: 20 Bash Tricks in 5 Minutes
+      speaker: Spencer Krum
+      url: https://www.youtube.com/watch?v=pEN4WnFNMx0
+    - title: The integrations we fear and how we can manage them
+      speaker: Karoline Klever
+      url: http://vimeo.com/89484179
+    - title: The Abuse and Misuse of Test Automation - Interview
+      speaker: Alan Page
+      url: https://www.youtube.com/watch?v=ryiNDMkBUNY
+  related-links:
+    - https://github.com/nibalizer/bash-tricks
+    - https://www.amazon.com/gp/product/158053791X
+    - https://www.amazon.com/gp/product/0932633692
+  attendance: 19
+  notes: >
+    Be careful with logs - not too much, not too little. "Automate the tests
+    that should be automated." Need 100% confidence in tests. "Automate when
+    bored." Hold test code to same standards as prod code. Make sure each test
+    tests a single thing. Good logging up front!

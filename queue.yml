@@ -6,8 +6,6 @@
       url: https://www.youtube.com/watch?v=17rkSdkc5TI
     - title: 'AWS Face Off: Heroku vs. EC2 vs. RDS'
       url: http://vimeo.com/105723873
-    - title: 'The integrations we fear and how we can manage them - Karoline Klever'
-      url: http://vimeo.com/89484179
     - title: Architecture War Stories
       url: http://www.infoq.com/presentations/architecture-disaster
     - title: Use PostgreSQL, Not Rails, to Make Rails Faster!
