@@ -328,3 +328,11 @@
     Reducing latency generates information, which equals probable money. What
     are things that everyone hates to do? Aim for 30% time. Start with visible
     improvements that VIPs care about, as skunkworks if necessary.
+- date: 2015-11-03
+  videos:
+    - title: The Worst Programming Language Ever
+      speaker: Mark Rendle
+      url: http://www.infoq.com/presentations/worst-programming-language
+  attendance: 21
+  notes: >
+    "The pit of success" - make easy things easy. Know the purpose of a language.
