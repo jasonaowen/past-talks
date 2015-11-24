@@ -357,3 +357,8 @@
     that should be automated." Need 100% confidence in tests. "Automate when
     bored." Hold test code to same standards as prod code. Make sure each test
     tests a single thing. Good logging up front!
+- date: 2015-11-17
+  videos:
+    - title: Creating An Incremental Architecture For Your System
+      speaker: Giovanni Asproni
+      url: http://www.infoq.com/presentations/incremental-architecture
