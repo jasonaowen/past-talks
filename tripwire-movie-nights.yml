@@ -362,3 +362,17 @@
     - title: Creating An Incremental Architecture For Your System
       speaker: Giovanni Asproni
       url: http://www.infoq.com/presentations/incremental-architecture
+- date: 2015-11-24
+  videos:
+    - title: Security for non-unicorns
+      speaker: Ben Hughes
+      url: https://www.youtube.com/watch?v=B4ra9_KnMdk
+  attendance: 17
+  comments: >
+    We should build our own docker / vagrant files - or we do, and we should do
+    that more.  "Security people are jerks" - rather than just saying
+    everything's awful, need to give enough information about problems to have
+    a risk/cost discussion with the business.  There's an analogue here to QA:
+    you can say "it's broken and this is awful" or "this checkbox is
+    backwards"; one is more useful than the other.  Bug bounty? Need to do a
+    lot of prep work first.
