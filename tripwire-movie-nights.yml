@@ -376,3 +376,18 @@
     you can say "it's broken and this is awful" or "this checkbox is
     backwards"; one is more useful than the other.  Bug bounty? Need to do a
     lot of prep work first.
+- date: 2015-12-01
+  videos:
+    - title: Naming Things
+      speaker: Ian Barber
+      url: http://www.infoq.com/presentations/name-clarity
+  related-links:
+    - http://www.codemesh.io/codemesh2014/ian-barber
+  attendance: 21
+  notes: >
+    Names are primarily for humans. 1. Name (what we want), 2. address (where
+    it is), 3. route (how we get there); the name gets less important for each
+    of those steps.  Names are to refer to something, not describe something.
+    Aspire to descriptiveness, mneumonic quality, and affordance. You can
+    indicate a situation or idea is more complex than might otherwise be
+    apparent in your choice of names.
