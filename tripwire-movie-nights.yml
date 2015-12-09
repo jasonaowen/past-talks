@@ -391,3 +391,19 @@
     Aspire to descriptiveness, mneumonic quality, and affordance. You can
     indicate a situation or idea is more complex than might otherwise be
     apparent in your choice of names.
+- date: 2015-12-08
+  videos:
+    - title: Agile Essence and Fluency
+      speaker: Martin Fowler
+      url: https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014
+    - title: Continuous Delivery
+      speaker: Martin Fowler
+      url: https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014
+  attendance: 21
+  notes: >
+    The deployment pipeline should be bringing changes closer and closer to
+    production through increasingly production-like environments. Agile says
+    "if it hurts, do it more often."
+  comments: >
+    "Breaking dependencies" can apply to organizational dependencies as well as
+    to dependencies in code.
