@@ -407,3 +407,20 @@
   comments: >
     "Breaking dependencies" can apply to organizational dependencies as well as
     to dependencies in code.
+- date: 2015-12-15
+  videos:
+    - title: Testing – Why Don't We Do It Like This?
+      speaker: Jim Weirich
+      url: https://vimeo.com/16515526
+  attendance: 23
+  notes: >
+    Problems are mocking, persistence, meta, going outside the flow. Refactor
+    tests to make them readable. Test the right thing: 1. what behaviors are
+    important? -> specifications. 2. could you write the software from the
+    tests? don't test private methods or ancillary objects. tests are code,
+    tests are specs.
+  comments: >
+    So this was very rails-centric, and even in rails-land things have changed
+    a bit since this talk. It's also very dev-centric, rather than QA-centric.
+    We've been able to reimplement software from the tests before, and it was
+    awesome.
