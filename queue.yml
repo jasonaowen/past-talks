@@ -113,3 +113,9 @@
     - title: The Joy of Debugging Ourselves
       speaker: Laurent Bossavit
       url: http://www.infoq.com/presentations/programming-fun
+    - title: The (not so) Dark Art of Performance Tuning
+      speaker: Kirk Pepperdine
+      url: https://www.youtube.com/watch?v=5XWgjSHZlQw
+    - title: An Introduction to JVM Performance
+      speaker: Rafael Winterhalter
+      url: https://www.youtube.com/watch?v=q8-10v15sZE
