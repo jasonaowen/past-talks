@@ -424,3 +424,11 @@
     a bit since this talk. It's also very dev-centric, rather than QA-centric.
     We've been able to reimplement software from the tests before, and it was
     awesome.
+- date: 2015-12-23
+  videos:
+    - title: Achieving Your Childhood Dreams
+      speaker: Randy Pausch
+      url: https://www.youtube.com/watch?v=ji5_MqicxSo
+  related-links:
+    - http://en.wikipedia.org/wiki/Really_Achieving_Your_Childhood_Dreams
+    - http://www.cmu.edu/randyslecture/
