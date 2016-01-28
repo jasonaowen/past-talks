@@ -432,3 +432,73 @@
   related-links:
     - http://en.wikipedia.org/wiki/Really_Achieving_Your_Childhood_Dreams
     - http://www.cmu.edu/randyslecture/
+- date: 2015-12-29
+  videos:
+    - title: History of Programming, Part I
+      speaker: Mark Rendle
+      url: https://vimeo.com/97541186
+- date: 2016-01-05
+  videos:
+    - title: A Polyglot Approach to Enterprise Software
+      speaker: Scott Shaw and James Gregory
+      url: http://www.infoq.com/presentations/polyglot-enterprise-software
+  attendance: 20
+  notes: >
+    Like potatos, needs diversity. Open APIs are enablers of change - analogy
+    to bsuiness, needing approvals. No snowflake deployments!
+- date: 2016-01-12
+  videos:
+    - title: The (not so) Dark Art of Performance Tuning, from Newts to Newton
+      speaker: Kirk Pepperdine
+      url: https://www.youtube.com/watch?v=jjXn6B_lH2I
+  related-links:
+    - https://speakerdeck.com/istanbultechtalks/itt-2015-kirk-pepperdine-the-not-so-dark-art-of-performance-tuning-from-newts-to-newton
+    - http://www.istanbultechtalks.com/
+  attendance: 25
+  notes: >
+    What is the dominant factor? Know the constraints of hardware - capacity
+    and throughput. Make your test env look like prod. There are useful tools
+    around thread dump analysis. Find the dominating consumer, fix, repeat.
+  comments: >
+    The first half of this talk was really good. The loop conditions
+    (`(!user.isHappy()) && user.hasMoney()`) were amusing and insightful. The
+    flowchart is super useful. The demo lagged pretty hard; it's hard to do
+    demos in general, much less of a perf problem that's trivial enough to
+    understand during a talk and complex enough to be worthwhile.
+- date: 2016-01-19
+  videos:
+    - title: "Beyond DevOps: How Netflix Bridges the Gap"
+      speaker: Josh Evans
+      url: http://www.infoq.com/presentations/netflix-operations-devops
+  related-links:
+    - https://qconsf.com/sf2015/presentation/beyond-devops-netflix-operations-engineering
+    - http://www.slideshare.net/JoshEvans2/beyond-devops-how-netflix-bridges-the-gap
+  attendance: 20
+  notes: >
+    failure of communication - reach out to the people you support. Grease the
+    squeaky wheels; they're doing you a favor by speaking up loudly and early.
+    Provide valuable solutions to make people's lives better. Make it easy to
+    do the right thing!
+  comments: >
+    Failing to do these things leads to people routing around you as damage.
+- date: 2016-01-26
+  videos:
+    - title: Autonomy and Leadership at Spotify
+      speaker: Anders Ivarsson
+      url: http://www.infoq.com/presentations/autonomy-leadership-spotify
+  related-links:
+    - http://www.agileaustralia.com.au/2015/program
+    - http://www.agileaustralia.com.au/2015/presentations/Agile-Australia-2015-Anders-Ivarsson.pdf
+  attendance: 31
+  notes: >
+    Feature/platform cross-functional squads; cross-team chapters, eg "backend
+    devs". No chapter leads; prevents members from being active.  Tech leads &
+    product leads worked out for tribes (groups of teams). No middlemen - just
+    go direct. Squad always asking "who are users? stakeholders?" to understand
+    context.  Squad-level metrics. "Learning is a core delivery." "Leadership
+    is a behavior, not a role." alignment and autonomy do not conflict.
+  comments: >
+    How does failure and continuous delivery work? A/B testing with a gradual
+    ramp-up to newly deployed code. Hack week sounds cool, how do we do that?
+    Do we have cultural obstacles? Team vs manager accountability. We are
+    "starved for data". "Talks like this are interesting."
