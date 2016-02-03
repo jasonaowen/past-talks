@@ -502,3 +502,10 @@
     ramp-up to newly deployed code. Hack week sounds cool, how do we do that?
     Do we have cultural obstacles? Team vs manager accountability. We are
     "starved for data". "Talks like this are interesting."
+- date: 2016-02-02
+  videos:
+    - title: 'Delivering Performance Under Schedule and Resource Pressure: Lessons Learned at Google and Microsoft'
+      speaker: Ivan Filho
+      url: http://www.infoq.com/presentations/performance-manager-google-microsoft
+  comments: >
+    Kinda more focused on management. The stages of denial were really good.
