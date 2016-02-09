@@ -509,3 +509,39 @@
       url: http://www.infoq.com/presentations/performance-manager-google-microsoft
   comments: >
     Kinda more focused on management. The stages of denial were really good.
+- date: 2016-02-09
+  videos:
+    - title: "Conditions for Best Job Ever, Team Communication and Five Rules of Learning"
+      speaker: Diana Larsen
+      url: http://www.infoq.com/interviews/agile2014-larsen-bestjob
+    - title: git bisect
+      speaker: Christian Couder
+      url: https://www.youtube.com/watch?v=CtIkm9Zy1iw
+    - title: A Flawed Approach to Regression Testing
+      speaker: Richard Bradshaw
+      url: https://www.youtube.com/watch?v=P2PUXqasvGI
+    - title: FART Response
+      speaker: Lim Soon Sim
+      url: https://www.youtube.com/watch?v=jooKkyH-c_U
+    - title: Refactoring; or Why Your Code Sucks and How to Fix It
+      speaker: Christopher Groskopf
+      url: http://vimeo.com/91425593
+    - title: How to replace yourself with a very small shell Script
+      speaker: Hilary Mason
+      url: http://www.ignitetalks.io/videos/how-to-replace-yourself-with-a-very-small-shell-script
+  attendance: 21
+  notes: >
+    Best job ever: what/how - the work itself; why; who. 5 rules of learning:
+    1. keep it alive - _humans_ are learning; 2. do it for real - actually
+    practice/test it; 3. setting first - does the environment support learning?
+    4. start obvious, stay obvious - be clear on what you're focusing on; 5.
+    flow - make sure we're between overwhelming and boring.  FART - checks
+    encode knowledge at a certain point in time; tests need to be revisited to
+    make sure that knowledge still applies to the changing system. RCRCRC -
+    Recent, Core, Risky, Configuration, Repaired, Chronic.  Don't focus on
+    checks to the exclusion of gaining new knowledge.
+  comments: >
+    FART is a useful way to think about things. It doesn't feel like we're far
+    enough along to be the target audience. There is an emphasis in refactoring
+    on the dev side; need more of that on the test side. Devs need to more
+    actively involve QA in changes.

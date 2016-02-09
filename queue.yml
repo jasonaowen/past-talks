@@ -18,9 +18,6 @@
     - title: Virtual Machines, JavaScript and Assembler
       speaker: Scott Hanselman
       url: https://www.youtube.com/watch?v=FZYrlKbkLe8
-    - title: Refactoring; or Why Your Code Sucks and How to Fix It
-      speaker: Christopher Groskopf
-      url: http://vimeo.com/91425592
     - title: "The Functional Programming Concepts in Facebook's Mobile Apps"
       speaker: Adam Ernst
       url: http://www.infoq.com/presentations/fp-facebook-mobile-apps
@@ -48,9 +45,6 @@
     - title: "The Functional Programming Concepts in Facebook's Mobile Apps"
       speaker: Adam Ernst
       url: http://www.infoq.com/presentations/fp-facebook-mobile-apps
-    - title: "Conditions for Best Job Ever, Team Communication and Five Rules of Learning"
-      speaker: Diana Larsen
-      url: http://www.infoq.com/interviews/agile2014-larsen-bestjob
     - title: "Building Pinterest's Mobile Apps"
       speaker: Mike Beltzner
       url: http://www.infoq.com/presentations/pinterest-app
@@ -116,3 +110,9 @@
     - title: An Introduction to JVM Performance
       speaker: Rafael Winterhalter
       url: https://www.youtube.com/watch?v=q8-10v15sZE
+    - title: Is that API Secure?
+      speaker: Marko Vuksanovic
+      url: http://www.infoq.com/presentations/http-api-security
+    - title: Titanic Does Not Need to Sink!
+      speaker: Pardo & Lopez(?)
+      url: http://www.infoq.com/presentations/large-scale-scrum
