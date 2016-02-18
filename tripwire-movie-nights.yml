@@ -545,3 +545,18 @@
     enough along to be the target audience. There is an emphasis in refactoring
     on the dev side; need more of that on the test side. Devs need to more
     actively involve QA in changes.
+- date: 2016-02-16
+  videos:
+    - title: Is that API Secure?
+      speaker: Marko Vuksanovic
+      url: http://www.infoq.com/presentations/http-api-security
+  related-links:
+    - https://qconlondon.com/london-2015/presentation/implementing-continuous-delivery-adjusting-your-architecture.html
+    - http://www.slideshare.net/InfoQ/implementing-continuous-delivery-adjusting-your-architecture
+  attendance: 13
+  notes: >
+    Check out Vault Project, Key Whiz, and AWS Key Management Services.
+    Intro to Javascript Object Signing and Encryption (JOSE).
+  comments: >
+    Introductory talk - Security 101. Some interesting OAuth stuff, which we
+    don't play with much.

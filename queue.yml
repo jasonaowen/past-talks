@@ -110,9 +110,6 @@
     - title: An Introduction to JVM Performance
       speaker: Rafael Winterhalter
       url: https://www.youtube.com/watch?v=q8-10v15sZE
-    - title: Is that API Secure?
-      speaker: Marko Vuksanovic
-      url: http://www.infoq.com/presentations/http-api-security
     - title: Titanic Does Not Need to Sink!
       speaker: Pardo & Lopez(?)
       url: http://www.infoq.com/presentations/large-scale-scrum
