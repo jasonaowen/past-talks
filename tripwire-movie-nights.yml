@@ -574,3 +574,19 @@
     Architecture is tension between coupling and cohesion. Book: Release It.
     Build teams that look like the architecture you want. Hexagonal
     architecture - app surrounded by adaptors.
+- date: 2016-03-01
+  videos:
+    - title: "Railway oriented programming: Error handling in functional languages"
+      speaker: Scott Wlaschin
+      url: http://fsharpforfunandprofit.com/rop/
+  attendance: 17
+  notes: >
+    Convert exceptions into failures. Unhappy paths are requirements, too.
+    "Everything that can go wrong in one place." Compensating transactions, a
+    la `git revert`.
+  comments: >
+    Aren't exceptions the second track? What would the failure enum look like
+    for a decade-old project? Maybe have a dedicated failure enum for each one
+    of these sequences, rather than one giant global one. Returning a
+    collection of "undo" functions sounds kind of overwhelming - but maybe you
+    can wrap each with the previous, so you have kind of an undo-onion.
