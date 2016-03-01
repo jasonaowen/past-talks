@@ -560,3 +560,17 @@
   comments: >
     Introductory talk - Security 101. Some interesting OAuth stuff, which we
     don't play with much.
+- date: 2016-02-23
+  videos:
+    - title: "Implementing Continuous Delivery: Adjusting Your Architecture"
+      speaker: Rachel Laycock
+      url: http://www.infoq.com/presentations/cd-arch-patterns-ball-of-mud
+  related-links:
+    - https://qconlondon.com/london-2015/presentation/implementing-continuous-delivery-adjusting-your-architecture.html
+    - http://www.slideshare.net/InfoQ/implementing-continuous-delivery-adjusting-your-architecture
+  attendance: 22
+  notes: >
+    Architecture is the hard to change stuff. Afferent -> artifact > efferent.
+    Architecture is tension between coupling and cohesion. Book: Release It.
+    Build teams that look like the architecture you want. Hexagonal
+    architecture - app surrounded by adaptors.
