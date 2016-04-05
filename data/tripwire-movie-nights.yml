@@ -624,3 +624,15 @@
   related-links:
     - http://www.slideshare.net/ioanaserban/taking-control-of-your-test-environment
     - http://cast2015.sched.org/event/2zaB/taking-control-of-your-test-environment
+- date: 2016-04-05
+  attendance: 21
+  videos:
+    - title: Real Software Engineering
+      speaker: Glenn Vanderburg
+      url: https://www.youtube.com/watch?v=zDEpeWQHtFU
+  notes: >
+    Debunking the myth that things must be rooted in math; mathematical models
+    were only used because they were less expensive.
+  comments: >
+    Best explanation of software engineering. Good emphasis on feedback loops.
+    The upside-down string building was really cool!
