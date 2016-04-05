@@ -599,3 +599,28 @@
   notes: >
     Never say "well, actually...". Never feign surprise. Pairing is effective.
     Emphasize code reading as a key skill.
+- date: 2016-03-15
+  videos:
+    - title: The Bad Idea Terminator
+      speaker: Melissa Perri
+      url: http://www.infoq.com/presentations/product-management-bad-ideas
+  related-links:
+    - http://www.slideshare.net/MelissaPerri/the-bad-idea-terminator-qcon-london-2015
+    - https://qconlondon.com/london-2015/speakers/melissa-perri.html
+    - http://melissaperri.com/
+- date: 2016-03-22
+  videos:
+    - title: What It Means to be Just In Time
+      speaker: Ashley Puls
+      url: http://www.infoq.com/presentations/java-jit
+  related-links:
+    - https://2015.event.springone2gx.com/schedule/sessions/what_it_means_to_be_just_in_time.html
+    - http://www.slideshare.net/SpringCentral/what-it-means-to-be-just-in-time
+- date: 2016-03-29
+  videos:
+    - title: Taking Control Of Your Test Environment
+      speaker: Ioana Serban
+      url: https://www.youtube.com/watch?v=ufZ4tDSgvv8
+  related-links:
+    - http://www.slideshare.net/ioanaserban/taking-control-of-your-test-environment
+    - http://cast2015.sched.org/event/2zaB/taking-control-of-your-test-environment
