@@ -590,3 +590,12 @@
     of these sequences, rather than one giant global one. Returning a
     collection of "undo" functions sounds kind of overwhelming - but maybe you
     can wrap each with the previous, so you have kind of an undo-onion.
+- date: 2016-03-08
+  videos:
+    - title: What Beginners Can Teach Us
+      speaker: Selena Deckelmann
+      url: https://www.youtube.com/watch?v=F7BebVD4BtQ
+  attendance: 24
+  notes: >
+    Never say "well, actually...". Never feign surprise. Pairing is effective.
+    Emphasize code reading as a key skill.
