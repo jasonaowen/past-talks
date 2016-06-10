@@ -652,3 +652,14 @@
     product. Popularity is not the same as success. Maturity, value, more
     traffic -> happier. Survive passage of tme, understand lifecycle,
     understand cost.  Dev UX.
+- date: 2016-04-19
+  attendance: 25
+  videos:
+    - title: Broken Performance Tools
+      speaker: Brendan Gregg
+      url: http://www.infoq.com/presentations/broken-performance-tools
+  related-links:
+    - https://qconsf.com/sf2015/presentation/broken-performance-tools
+    - http://www.brendangregg.com/Slides/QCon2015_Broken_Performance_Tools.pdf
+  notes: >
+    You need to tailor your measurements to your product!
