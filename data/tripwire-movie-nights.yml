@@ -663,3 +663,15 @@
     - http://www.brendangregg.com/Slides/QCon2015_Broken_Performance_Tools.pdf
   notes: >
     You need to tailor your measurements to your product!
+- date: 2016-04-26
+  attendance: 22
+  videos:
+    - title: Recipe for Testing Spacecraft Ground Software
+      speaker: Barbara Streiffert
+      url: https://www.youtube.com/watch?v=YT_2ZYEb5I0
+  related-links:
+    - http://cast2014.sched.org/event/PJtbXC/recipe-for-testing-spacecraft-ground-software
+  notes: >
+    "Test as you fly, fly as you test!" Test adaption (specific configuration)
+    instead of generic. success-oriented (does that mean happy path?). Only two
+    people on that team!
