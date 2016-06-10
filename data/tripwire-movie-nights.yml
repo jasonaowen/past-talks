@@ -636,3 +636,19 @@
   comments: >
     Best explanation of software engineering. Good emphasis on feedback loops.
     The upside-down string building was really cool!
+- date: 2016-04-12
+  attendance: 22
+  videos:
+    - title: Why is an API like a Puppy?
+      speaker: Adewale Oshineye
+      url: http://www.ustream.tv/recorded/61485279
+  related-links:
+    - https://craft-conf.com/2015/#speakers/AdewaleOshineye
+  notes: >
+    Free as in puppy. Don't API-first dev; instead, have a private API used by
+    a public UI and then a public API. Supporting an API... "API design is a
+    solved problem!" "just use REST!" in practice, you have to support client
+    libraries, either yours or theirs. Makeller's law: your API is part of your
+    product. Popularity is not the same as success. Maturity, value, more
+    traffic -> happier. Survive passage of tme, understand lifecycle,
+    understand cost.  Dev UX.
