@@ -690,3 +690,15 @@
     Good explanation of the difference between concurrency and parallelism.
     Message passing is way easier to understand than other techniques, such as
     shared memory.
+- date: 2016-05-10
+  attendance: 23
+  videos:
+    - title: BDD using Cucumber JVM and Groovy
+      speaker: Marco Vermeulen
+      url: https://www.youtube.com/watch?v=UPPEm-YwJDo
+  notes: >
+    Not just a testing tool; all about collaboration. Pattern matching, a la
+    httpd.
+  comments: >
+    One team has used it to effectively work with their product owner and flush
+    out edge cases that would otherwise have been a lot of last-minute churn.
