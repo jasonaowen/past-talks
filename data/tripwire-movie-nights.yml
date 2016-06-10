@@ -675,3 +675,18 @@
     "Test as you fly, fly as you test!" Test adaption (specific configuration)
     instead of generic. success-oriented (does that mean happy path?). Only two
     people on that team!
+- date: 2016-05-03
+  attendance: 22
+  videos:
+    - title: Concurrency Is Not Parallelism
+      speaker: Rob Pike
+      url: https://vimeo.com/49718712
+  related-links:
+    - http://blog.golang.org/concurrency-is-not-parallelism
+    - http://concur.rspace.googlecode.com/hg/talk/concur.html
+  notes: >
+    Reactive manifesto. Clojure took some of golang.
+  comments: >
+    Good explanation of the difference between concurrency and parallelism.
+    Message passing is way easier to understand than other techniques, such as
+    shared memory.
