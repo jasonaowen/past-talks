@@ -131,3 +131,54 @@
     - title: API or Die Trying
       speaker: Brett Adam
       url: https://www.infoq.com/presentations/api-zendesk
+    - title: An Introduction to Property Based Testing
+      speaker: Aaron Bedra
+      url: https://www.infoq.com/presentations/property-based-testing-2016
+    - title: Understanding Cognitive Bias Found In Judgement & Choice
+      speaker: Jason Hand
+      url: http://confreaks.tv/videos/devopsdaysseattle2016-understanding-cognitive-bias-found-in-judgement-choice
+    - title: Cool Code
+      speaker: Kevlin Henney
+      url: https://www.infoq.com/presentations/cool-code
+    - title: Data Science in Clojure
+      speaker: Soren Macbeth
+      url: https://www.youtube.com/watch?v=omSTAwSjYc8
+    - title: Protocols - The Glue for Applications
+      speaker: Torben Hoffmann
+      url: http://www.infoq.com/presentations/erlang-async-protocols
+    - title: The Sweet Spot
+      speaker: Alberto Brandolini
+      url: http://www.infoq.com/presentations/kanban-cqrs-ddd-ux
+    - title: Small Is Beautiful
+      speaker: Kevlin Henney
+      url: http://www.infoq.com/presentations/small-large-systems
+    - title: The Indian Design Tradition - Folklore and Fluidity in both Function and Form
+      speaker: Nagaraju Pappu
+      url: http://www.infoq.com/presentations/indian-design-language
+    - title: Keep Things Simple
+      speaker: David Tanzer, Oliver Zymanski
+      url: http://www.infoq.com/presentations/simple-oo-design
+    - title: "Not Just Layers! What Can Pipelines and Events Do for You?"
+      speaker: Ian Cooper
+      url: http://www.infoq.com/presentations/pipelines-events
+    - title: Gradle Plugin Best Practices
+      speaker: Ben Muschko
+      url: https://www.youtube.com/watch?v=2VKXzkAOuwc
+    - title: What If There Were No Rules?
+      speaker: Ben Gracewood
+      url: https://www.infoq.com/presentations/startup-rules
+    - title: Robust-first computing: Demon Horde Sort
+      speaker: Dave Ackley
+      url: https://www.youtube.com/watch?v=helScS3coAE
+    - title: Reinventing Organizations for Agility
+      speaker: Michael Sahota
+      url: https://www.infoq.com/presentations/change-laloux
+    - title: On cubes, people, and snacks
+      speaker: Siobhán K Cronin
+      url: http://confreaks.tv/videos/alterconfsanfrancisco2016-on-cubes-people-and-snacks
+    - title: Test Automation - 10 (sometimes painful) Lessons Learned
+      speaker: Dominik Dary & Michael Palotas
+      url: https://www.youtube.com/watch?v=tJ0O8p5PajQ
+    - title: How to Build a Skyscraper
+      speaker: Ernie Miller
+      url: http://confreaks.tv/videos/railsconf2016-how-to-build-a-skyscraper
