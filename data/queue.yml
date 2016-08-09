@@ -182,3 +182,6 @@
     - title: How to Build a Skyscraper
       speaker: Ernie Miller
       url: http://confreaks.tv/videos/railsconf2016-how-to-build-a-skyscraper
+    - title: Using Kotlin in an existing Java code base
+      speaker: Travis Spencer
+      url: https://www.youtube.com/watch?v=eDHUabQMRb4
