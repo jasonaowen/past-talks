@@ -185,3 +185,6 @@
     - title: Using Kotlin in an existing Java code base
       speaker: Travis Spencer
       url: https://www.youtube.com/watch?v=eDHUabQMRb4
+    - title: Best Practices for Implementing Serverless Architecture
+      speaker: Chad Arimura
+      url: https://www.iron.io/resources/videos/oreilly-conference-best-practices-for-implementing-serverless-architecture/
