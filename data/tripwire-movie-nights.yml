@@ -702,3 +702,12 @@
   comments: >
     One team has used it to effectively work with their product owner and flush
     out edge cases that would otherwise have been a lot of last-minute churn.
+- date: 2016-05-17
+  attendance: 16
+  videos:
+    - title: The Joy of Debugging Ourselves
+      speaker: Laurent Bossavit
+      url: http://www.infoq.com/presentations/programming-fun
+  notes: >
+    The Leprechauns of Software Engineering, by Laurent Bossavit. Thinking,
+    Fast and Slow, by Daniel Kahneman. Inside Jokes, by Hurley, Dennett, Adams.
